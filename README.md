@@ -2,13 +2,13 @@
 
 This repository contains a power system model of Spain designed to explore pathways to a **100% renewable energy system**. The model integrates high-resolution weather and demand data with geospatial analysis to evaluate the feasibility of fully decarbonized electricity supply.  
 
-## 🔍 Overview  
+## Overview  
 
 The project combines **climate reanalysis data, GIS-based resource assessment, and power system optimization** to answer the question:  
 
 > Can Spain reliably meet its electricity demand using only renewable resources?  
 
-## ⚡ Key Features  
+## Key Features  
 
 - **Time-Series Resource Modeling**  
   - Analyzed hourly ERA5 data to model **solar PV and wind generation** across seasons.  
@@ -24,7 +24,7 @@ The project combines **climate reanalysis data, GIS-based resource assessment, a
   - Used the **Gurobi solver** for efficient large-scale optimization.  
   - Performed **sensitivity analyses** to explore trade-offs and strategies for reducing capital expenditures (CAPEX).  
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 - **Python**: Data analysis and model integration  
 - **PyPSA**: Power system modeling and optimization  
