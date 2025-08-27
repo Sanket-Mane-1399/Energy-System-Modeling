@@ -1,0 +1,13 @@
+atlite
+rasterio
+geopandas
+pandas
+numpy
+xarray
+matplotlib
+country_converter
+pyproj
+netCDF4
+vresutils
+cartopy
+pypsa
