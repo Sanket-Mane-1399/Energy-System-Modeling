@@ -30,4 +30,8 @@ The project combines **climate reanalysis data, GIS-based resource assessment, a
 - **PyPSA**: Power system modeling and optimization  
 - **Gurobi**: Optimization solver  
 - **GIS Tools**: Spatial analysis of renewable potential  
-- **ERA5**: High-resolution weather and climate data  
+- **ERA5**: High-resolution weather and climate data
+
+## Note
+- Please gather the necessary data according to your problem requirement.
+- Data used for this project is obtained via TU Berlin ENSYS department and is only accessible for TU Berlin students 
